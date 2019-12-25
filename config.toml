@@ -1,0 +1,4 @@
+baseURL = "http://davisausterberry.ca/"
+languageCode = "en-us"
+title = "Davis Austerberry"
+theme = "ananke"
