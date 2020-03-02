@@ -4,6 +4,5 @@ date: 2019-12-22T14:30:16-08:00
 draft: false
 ---
 
-Is it that easy to add basic text?
+Will it change this time?
 
-Fuck you juno 
