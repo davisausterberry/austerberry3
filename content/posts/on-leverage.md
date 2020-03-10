@@ -1,6 +1,5 @@
 ---
 title: "Leverage"
-date: 2020-2-9
 draft: false
 ---
 
