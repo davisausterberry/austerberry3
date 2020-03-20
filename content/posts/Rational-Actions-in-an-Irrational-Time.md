@@ -1,5 +1,6 @@
 ---
-title: "My First Post"
+title: "Rational Actions in an Irrational Time"
+
 date: 2020-03-19T14:30:16-08:00
 draft: false
 ---
