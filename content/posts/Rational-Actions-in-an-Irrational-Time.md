@@ -1,3 +1,9 @@
+---
+title: "My First Post"
+date: 2020-03-19T14:30:16-08:00
+draft: false
+---
+
 A good way to approach anything in life is to only make decisions when you have the data. An imperative initial step is to determine what data is available, it’s reliability, relevance and cost to acquire. Upon doing so, the remaining ambiguity is the price in risk that you will have to pay to take part in the game.
 
  
