@@ -1,7 +1,7 @@
 ---
 title: "Extra Hard Mode"
 
-date: 2020-06-8T14:30:16-08:00
+date: 2020-06-8
 draft: false
 ---
 
